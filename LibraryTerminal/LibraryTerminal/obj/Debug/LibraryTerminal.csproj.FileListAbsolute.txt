@@ -1,0 +1,7 @@
+C:\Users\mhern\OneDrive - KNEX\Desktop\Grand Circus Labs\Week 2 Capstone\LibraryTerminal\LibraryTerminal\bin\Debug\LibraryTerminal.exe.config
+C:\Users\mhern\OneDrive - KNEX\Desktop\Grand Circus Labs\Week 2 Capstone\LibraryTerminal\LibraryTerminal\bin\Debug\LibraryTerminal.exe
+C:\Users\mhern\OneDrive - KNEX\Desktop\Grand Circus Labs\Week 2 Capstone\LibraryTerminal\LibraryTerminal\bin\Debug\LibraryTerminal.pdb
+C:\Users\mhern\OneDrive - KNEX\Desktop\Grand Circus Labs\Week 2 Capstone\LibraryTerminal\LibraryTerminal\obj\Debug\LibraryTerminal.csprojAssemblyReference.cache
+C:\Users\mhern\OneDrive - KNEX\Desktop\Grand Circus Labs\Week 2 Capstone\LibraryTerminal\LibraryTerminal\obj\Debug\LibraryTerminal.csproj.CoreCompileInputs.cache
+C:\Users\mhern\OneDrive - KNEX\Desktop\Grand Circus Labs\Week 2 Capstone\LibraryTerminal\LibraryTerminal\obj\Debug\LibraryTerminal.exe
+C:\Users\mhern\OneDrive - KNEX\Desktop\Grand Circus Labs\Week 2 Capstone\LibraryTerminal\LibraryTerminal\obj\Debug\LibraryTerminal.pdb
